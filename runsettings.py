@@ -60,7 +60,7 @@ if not DEV:
         SOURCE = OUTPUT = AUTOMATION_DICT["source"]
 
         if SOURCE == "":
-            print(f"Source is not defined! Define it at {os.path.join(SCRIPT_PATH, "automatization.json")}")
+            print(f"Source is not defined! Define it at {os.path.join(SCRIPT_PATH, 'automatization.json')}")
             exit(1)
     else:
         while True:
@@ -112,6 +112,6 @@ for fol in fileout:
             for f in fol_path_files:
                 f_path = os.path.join(fol_path, f)
                 if os.path.isdir(f_path):
-                    if fol not in list(CATEGORIES.keys()):
+                    if f not in list(CATEGORIES.keys()):
                         shutil.copytree(src=f_path, dst=os.path.join(fold_path, f), dirs_exist_ok=True)
                         shutil.rmtree(f_path)
