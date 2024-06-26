@@ -1,0 +1,11 @@
+{
+    "video": [".mp4", ".avif", ".mkv", ".webm"],
+    "image": [".jpg", ".png", ".jpeg", ".webp"],
+    "gif": [".gif"],
+    "zip": [".zip", ".rar", ".7z", ".tar", ".gz", ".tar.gz"],
+    "unknown": [".swf"],
+    "text": [".txt"],
+    "installer": [".exe", ".msi"],
+    "link": [".uri", ".lnk", ".desktop"],
+    "script": [".py", ".pyw", ".js", ".lua", ".vba", ".sh"]
+}

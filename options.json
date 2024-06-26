@@ -1,0 +1,22 @@
+{
+    "duplicates": {
+        "delete": true
+    },
+    "move": {
+        "ignore_errors": false,
+        "rename": false,
+        "name_size_max": 32,
+        "remove_char": ["/", "\\"]
+    },
+    "system": {
+        "allow_verbose": false,
+        "logging": true,
+        "dev": false,
+        "automatization": true
+    },
+    "extracting": {
+        "auto_extract": false,
+        "delete_after_done": true,
+        "category": "zip"
+    }
+}

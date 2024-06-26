@@ -1,0 +1,1039 @@
+26/06/2024 09:17:46 -> Executing...
+26/06/2024 09:17:46 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:17:46 -> Moving 15 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\video.
+26/06/2024 09:17:46 -> video at folder has 15 non-moved files.
+26/06/2024 09:17:46 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:17:46 -> Moving 16 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\image.
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\Avengers_002-008.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\black.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\black.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\cat.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\cat.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\jo_-_01_pag_-_03.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\jpg.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\jpg.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\pretty.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\pretty.jpg is not a duplicate!
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\Sem t�tulo.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\Sem t�tulo.png is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\Sem t�tulo.png to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\superman.jpg is not a duplicate!
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\superman.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> D:\Testes\1719404263.735573\folder\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 09:17:46 -> image at folder has 2 non-moved files.
+26/06/2024 09:17:46 -> Moved D:\Testes\1719404263.735573\folder\The Water Tower Standoff Instant Download.jpg to D:\Testes\1719404263.735573\folder\image
+26/06/2024 09:17:46 -> Moving 3 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\gif.
+26/06/2024 09:17:46 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:17:46 -> gif at folder has 3 non-moved files.
+26/06/2024 09:17:46 -> zip at folder has 4 non-moved files.
+26/06/2024 09:17:46 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:17:46 -> Moving 4 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\zip.
+26/06/2024 09:17:46 -> unknown at folder has 5 non-moved files.
+26/06/2024 09:17:46 -> Moving 5 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\unknown.
+26/06/2024 09:17:46 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:17:46 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:17:46 -> text at folder has 6 non-moved files.
+26/06/2024 09:17:46 -> Moving 6 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\text.
+26/06/2024 09:17:46 -> Moving 7 files from D:\Testes\1719404263.735573\folder to D:\Testes\1719404263.735573\folder\installers.
+26/06/2024 09:17:46 -> Filtered at D:\Testes\1719404263.735573
+26/06/2024 09:17:46 -> installers at folder has 7 non-moved files.
+26/06/2024 09:25:18 -> Executing...
+26/06/2024 09:25:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:18 -> video at folder has 15 non-moved files.
+26/06/2024 09:25:18 -> Moving 15 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\video.
+26/06/2024 09:25:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:18 -> Moving 16 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\image.
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\Avengers_002-008.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\black.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\black.jpg is not a duplicate!
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\cat.jpg is not a duplicate!
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\cat.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:18 -> D:\Testes\1719404715.242735\folder\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 09:25:18 -> Moved D:\Testes\1719404715.242735\folder\jo_-_01_pag_-_03.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> D:\Testes\1719404715.242735\folder\jpg.jpg is not a duplicate!
+26/06/2024 09:25:19 -> D:\Testes\1719404715.242735\folder\pretty.jpg is not a duplicate!
+26/06/2024 09:25:19 -> Moved D:\Testes\1719404715.242735\folder\jpg.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> Moved D:\Testes\1719404715.242735\folder\pretty.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> Moved D:\Testes\1719404715.242735\folder\Sem t�tulo.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> D:\Testes\1719404715.242735\folder\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 09:25:19 -> Moved D:\Testes\1719404715.242735\folder\Sem t�tulo.png to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> D:\Testes\1719404715.242735\folder\Sem t�tulo.png is not a duplicate!
+26/06/2024 09:25:19 -> Moved D:\Testes\1719404715.242735\folder\superman.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> D:\Testes\1719404715.242735\folder\superman.jpg is not a duplicate!
+26/06/2024 09:25:19 -> Moved D:\Testes\1719404715.242735\folder\The Water Tower Standoff Instant Download.jpg to D:\Testes\1719404715.242735\folder\image
+26/06/2024 09:25:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:19 -> D:\Testes\1719404715.242735\folder\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 09:25:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:19 -> Moving 3 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\gif.
+26/06/2024 09:25:19 -> gif at folder has 3 non-moved files.
+26/06/2024 09:25:19 -> Moving 4 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\zip.
+26/06/2024 09:25:19 -> zip at folder has 4 non-moved files.
+26/06/2024 09:25:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:19 -> Moving 5 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\unknown.
+26/06/2024 09:25:19 -> unknown at folder has 5 non-moved files.
+26/06/2024 09:25:19 -> text at folder has 6 non-moved files.
+26/06/2024 09:25:19 -> Moving 6 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\text.
+26/06/2024 09:25:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:25:19 -> installers at folder has 7 non-moved files.
+26/06/2024 09:25:19 -> Moving 7 files from D:\Testes\1719404715.242735\folder to D:\Testes\1719404715.242735\folder\installers.
+26/06/2024 09:25:19 -> Filtered at D:\Testes\1719404715.242735
+26/06/2024 09:29:56 -> Executing...
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> Moving 15 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\video.
+26/06/2024 09:29:56 -> video at folder has 15 non-moved files.
+26/06/2024 09:29:56 -> Moving 16 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\image.
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\Avengers_002-008.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\cat.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\black.jpg is not a duplicate!
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\cat.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\black.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\jo_-_01_pag_-_03.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\pretty.jpg is not a duplicate!
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\jpg.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\jpg.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\pretty.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\Sem t�tulo.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\Sem t�tulo.png to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\Sem t�tulo.png is not a duplicate!
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\superman.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\superman.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> image at folder has 2 non-moved files.
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> Moved D:\Testes\1719404993.383537\folder\The Water Tower Standoff Instant Download.jpg to D:\Testes\1719404993.383537\folder\image
+26/06/2024 09:29:56 -> D:\Testes\1719404993.383537\folder\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> Moving 3 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\gif.
+26/06/2024 09:29:56 -> gif at folder has 3 non-moved files.
+26/06/2024 09:29:56 -> Moving 4 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\zip.
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> zip at folder has 4 non-moved files.
+26/06/2024 09:29:56 -> unknown at folder has 5 non-moved files.
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> Moving 5 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\unknown.
+26/06/2024 09:29:56 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:29:56 -> Moving 6 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\text.
+26/06/2024 09:29:56 -> text at folder has 6 non-moved files.
+26/06/2024 09:29:56 -> Moving 7 files from D:\Testes\1719404993.383537\folder to D:\Testes\1719404993.383537\folder\installers.
+26/06/2024 09:29:56 -> Filtered at D:\Testes\1719404993.383537
+26/06/2024 09:29:56 -> installers at folder has 7 non-moved files.
+26/06/2024 09:37:05 -> Executing...
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> video at folder has 2 non-moved files.
+26/06/2024 09:37:05 -> Moving 2 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\video.
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> Moving 3 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\image.
+26/06/2024 09:37:05 -> image at folder has 3 non-moved files.
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> Moving 4 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\gif.
+26/06/2024 09:37:05 -> gif at folder has 4 non-moved files.
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> Moving 5 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\zip.
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> zip at folder has 5 non-moved files.
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> Moving 6 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\unknown.
+26/06/2024 09:37:05 -> unknown at folder has 6 non-moved files.
+26/06/2024 09:37:05 -> Moving 7 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\text.
+26/06/2024 09:37:05 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:37:05 -> text at folder has 7 non-moved files.
+26/06/2024 09:37:05 -> installers at folder has 8 non-moved files.
+26/06/2024 09:37:05 -> Moving 8 files from D:\Testes\1719405421.026951\folder to D:\Testes\1719405421.026951\folder\installers.
+26/06/2024 09:37:05 -> Filtered at D:\Testes\1719405421.026951
+26/06/2024 09:38:35 -> Executing...
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> Moving 8 files from D:\Testes\folder to D:\Testes\folder\video.
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> video at folder has 8 non-moved files.
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> Moving 9 files from D:\Testes\folder to D:\Testes\folder\image.
+26/06/2024 09:38:35 -> image at folder has 9 non-moved files.
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> gif at folder has 10 non-moved files.
+26/06/2024 09:38:35 -> Moving 10 files from D:\Testes\folder to D:\Testes\folder\gif.
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> Moving 11 files from D:\Testes\folder to D:\Testes\folder\zip.
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> zip at folder has 11 non-moved files.
+26/06/2024 09:38:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 09:38:35 -> unknown at folder has 12 non-moved files.
+26/06/2024 09:38:36 -> installers at folder has 14 non-moved files.
+26/06/2024 09:38:35 -> text at folder has 13 non-moved files.
+26/06/2024 09:38:36 -> Filtered at D:\Testes
+26/06/2024 09:38:35 -> Moving 12 files from D:\Testes\folder to D:\Testes\folder\unknown.
+26/06/2024 09:38:36 -> Moving 14 files from D:\Testes\folder to D:\Testes\folder\installers.
+26/06/2024 09:38:35 -> Moving 13 files from D:\Testes\folder to D:\Testes\folder\text.
+26/06/2024 10:01:41 -> Executing...
+26/06/2024 10:01:41 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:41 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:41 -> video at folder has 15 non-moved files.
+26/06/2024 10:01:41 -> Moving 15 files from D:\Testes\folder to D:\Testes\folder\video.
+26/06/2024 10:01:41 -> Moving 16 files from D:\Testes\folder to D:\Testes\folder\image.
+26/06/2024 10:01:41 -> D:\Testes\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 10:01:41 -> D:\Testes\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\folder\image
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\folder\image
+26/06/2024 10:01:41 -> D:\Testes\folder\black.jpg is not a duplicate!
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\Avengers_002-008.jpg to D:\Testes\folder\image
+26/06/2024 10:01:41 -> D:\Testes\folder\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 10:01:41 -> D:\Testes\folder\cat.jpg is not a duplicate!
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\black.jpg to D:\Testes\folder\image
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\cat.jpg to D:\Testes\folder\image
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\folder\image
+26/06/2024 10:01:41 -> D:\Testes\folder\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 10:01:41 -> D:\Testes\folder\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 10:01:41 -> Moved D:\Testes\folder\jo_-_01_pag_-_03.jpg to D:\Testes\folder\image
+26/06/2024 10:01:42 -> D:\Testes\folder\jpg.jpg is not a duplicate!
+26/06/2024 10:01:42 -> D:\Testes\folder\pretty.jpg is not a duplicate!
+26/06/2024 10:01:42 -> Moved D:\Testes\folder\jpg.jpg to D:\Testes\folder\image
+26/06/2024 10:01:42 -> Moved D:\Testes\folder\pretty.jpg to D:\Testes\folder\image
+26/06/2024 10:01:42 -> Moved D:\Testes\folder\Sem t�tulo.jpg to D:\Testes\folder\image
+26/06/2024 10:01:42 -> D:\Testes\folder\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 10:01:42 -> D:\Testes\folder\Sem t�tulo.png is not a duplicate!
+26/06/2024 10:01:42 -> Moved D:\Testes\folder\Sem t�tulo.png to D:\Testes\folder\image
+26/06/2024 10:01:42 -> Moved D:\Testes\folder\superman.jpg to D:\Testes\folder\image
+26/06/2024 10:01:42 -> D:\Testes\folder\superman.jpg is not a duplicate!
+26/06/2024 10:01:42 -> Moved D:\Testes\folder\The Water Tower Standoff Instant Download.jpg to D:\Testes\folder\image
+26/06/2024 10:01:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:42 -> D:\Testes\folder\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 10:01:42 -> image at folder has 2 non-moved files.
+26/06/2024 10:01:42 -> gif at folder has 3 non-moved files.
+26/06/2024 10:01:42 -> Moving 3 files from D:\Testes\folder to D:\Testes\folder\gif.
+26/06/2024 10:01:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:42 -> Moving 4 files from D:\Testes\folder to D:\Testes\folder\zip.
+26/06/2024 10:01:42 -> zip at folder has 4 non-moved files.
+26/06/2024 10:01:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:42 -> unknown at folder has 5 non-moved files.
+26/06/2024 10:01:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:42 -> Moving 5 files from D:\Testes\folder to D:\Testes\folder\unknown.
+26/06/2024 10:01:42 -> Moving 6 files from D:\Testes\folder to D:\Testes\folder\text.
+26/06/2024 10:01:42 -> text at folder has 6 non-moved files.
+26/06/2024 10:01:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:01:42 -> Moving 7 files from D:\Testes\folder to D:\Testes\folder\installers.
+26/06/2024 10:01:42 -> Filtered at D:\Testes
+26/06/2024 10:01:42 -> installers at folder has 7 non-moved files.
+26/06/2024 10:03:43 -> Executing...
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> video at folder has 15 non-moved files.
+26/06/2024 10:03:43 -> Moving 15 files from D:\Testes\folder to D:\Testes\folder\video.
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> Moving 16 files from D:\Testes\folder to D:\Testes\folder\image.
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 10:03:43 -> D:\Testes\folder\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 10:03:43 -> D:\Testes\folder\black.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\Avengers_002-008.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\black.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\cat.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\cat.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 10:03:43 -> D:\Testes\folder\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\jo_-_01_pag_-_03.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\jpg.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\jpg.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\pretty.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\pretty.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\Sem t�tulo.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\Sem t�tulo.png to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\Sem t�tulo.png is not a duplicate!
+26/06/2024 10:03:43 -> D:\Testes\folder\superman.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\superman.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> D:\Testes\folder\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> Moved D:\Testes\folder\The Water Tower Standoff Instant Download.jpg to D:\Testes\folder\image
+26/06/2024 10:03:43 -> image at folder has 2 non-moved files.
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> gif at folder has 3 non-moved files.
+26/06/2024 10:03:43 -> Moving 3 files from D:\Testes\folder to D:\Testes\folder\gif.
+26/06/2024 10:03:43 -> Moving 4 files from D:\Testes\folder to D:\Testes\folder\zip.
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> zip at folder has 4 non-moved files.
+26/06/2024 10:03:43 -> Moving 5 files from D:\Testes\folder to D:\Testes\folder\unknown.
+26/06/2024 10:03:43 -> unknown at folder has 5 non-moved files.
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:03:43 -> text at folder has 6 non-moved files.
+26/06/2024 10:03:43 -> Moving 6 files from D:\Testes\folder to D:\Testes\folder\text.
+26/06/2024 10:03:43 -> Moving 7 files from D:\Testes\folder to D:\Testes\folder\installers.
+26/06/2024 10:03:43 -> Filtered at D:\Testes
+26/06/2024 10:03:43 -> installers at folder has 7 non-moved files.
+26/06/2024 10:13:06 -> Executing...
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> Moving 15 files from D:\Testes\folder to D:\Testes\folder\video.
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> video at folder has 15 non-moved files.
+26/06/2024 10:13:06 -> Moving 16 files from D:\Testes\folder to D:\Testes\folder\image.
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 10:13:06 -> D:\Testes\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\Avengers_002-008.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\black.jpg is not a duplicate!
+26/06/2024 10:13:06 -> D:\Testes\folder\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\black.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\cat.jpg is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\cat.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\jo_-_01_pag_-_03.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\pretty.jpg is not a duplicate!
+26/06/2024 10:13:06 -> D:\Testes\folder\jpg.jpg is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\jpg.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\pretty.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\Sem t�tulo.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 10:13:06 -> D:\Testes\folder\superman.jpg is not a duplicate!
+26/06/2024 10:13:06 -> D:\Testes\folder\Sem t�tulo.png is not a duplicate!
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\Sem t�tulo.png to D:\Testes\folder\image
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\superman.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> D:\Testes\folder\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 10:13:06 -> image at folder has 2 non-moved files.
+26/06/2024 10:13:06 -> Moved D:\Testes\folder\The Water Tower Standoff Instant Download.jpg to D:\Testes\folder\image
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> gif at folder has 3 non-moved files.
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> Moving 3 files from D:\Testes\folder to D:\Testes\folder\gif.
+26/06/2024 10:13:06 -> Moving 4 files from D:\Testes\folder to D:\Testes\folder\zip.
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> zip at folder has 4 non-moved files.
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> unknown at folder has 5 non-moved files.
+26/06/2024 10:13:06 -> Moving 5 files from D:\Testes\folder to D:\Testes\folder\unknown.
+26/06/2024 10:13:06 -> Moving 6 files from D:\Testes\folder to D:\Testes\folder\text.
+26/06/2024 10:13:06 -> text at folder has 6 non-moved files.
+26/06/2024 10:13:06 -> Generated an array with 0 strings of hashes.
+26/06/2024 10:13:06 -> Filtered at D:\Testes
+26/06/2024 10:13:06 -> Moving 7 files from D:\Testes\folder to D:\Testes\folder\installers.
+26/06/2024 10:13:06 -> installers at folder has 7 non-moved files.
+26/06/2024 13:08:03 -> Executing...
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> Moving 1 files from D:\Testes\folder to D:\Testes\folder\video.
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> video at folder has 1 non-moved files.
+26/06/2024 13:08:03 -> Moving 2 files from D:\Testes\folder to D:\Testes\folder\image.
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> image at folder has 2 non-moved files.
+26/06/2024 13:08:03 -> gif at folder has 3 non-moved files.
+26/06/2024 13:08:03 -> Moving 3 files from D:\Testes\folder to D:\Testes\folder\gif.
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> zip at folder has 4 non-moved files.
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> Moving 4 files from D:\Testes\folder to D:\Testes\folder\zip.
+26/06/2024 13:08:03 -> Moving 5 files from D:\Testes\folder to D:\Testes\folder\unknown.
+26/06/2024 13:08:03 -> unknown at folder has 5 non-moved files.
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:08:03 -> text at folder has 6 non-moved files.
+26/06/2024 13:08:03 -> Moving 6 files from D:\Testes\folder to D:\Testes\folder\text.
+26/06/2024 13:08:03 -> Filtered at D:\Testes
+26/06/2024 13:08:03 -> Moving 7 files from D:\Testes\folder to D:\Testes\folder\installers.
+26/06/2024 13:08:03 -> installers at folder has 7 non-moved files.
+26/06/2024 13:22:19 -> Executing...
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> Moving 1 files from D:\Testes\folder to D:\Testes\folder\video.
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> video at folder has 1 non-moved files.
+26/06/2024 13:22:19 -> image at folder has 2 non-moved files.
+26/06/2024 13:22:19 -> Moving 2 files from D:\Testes\folder to D:\Testes\folder\image.
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> gif at folder has 3 non-moved files.
+26/06/2024 13:22:19 -> Moving 3 files from D:\Testes\folder to D:\Testes\folder\gif.
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> Moving 4 files from D:\Testes\folder to D:\Testes\folder\zip.
+26/06/2024 13:22:19 -> zip at folder has 4 non-moved files.
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> Moving 5 files from D:\Testes\folder to D:\Testes\folder\unknown.
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> unknown at folder has 5 non-moved files.
+26/06/2024 13:22:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:22:19 -> Moving 6 files from D:\Testes\folder to D:\Testes\folder\text.
+26/06/2024 13:22:19 -> text at folder has 6 non-moved files.
+26/06/2024 13:22:19 -> Moving 7 files from D:\Testes\folder to D:\Testes\folder\installers.
+26/06/2024 13:22:19 -> installers at folder has 7 non-moved files.
+26/06/2024 13:22:19 -> Filtered at D:\Testes
+26/06/2024 13:26:45 -> Executing...
+26/06/2024 13:26:45 -> Filtered at D:\Testes
+26/06/2024 13:28:15 -> Executing...
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:28:15 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\Sem t�tulo.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\Sem t�tulo.png is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\Sem t�tulo.png to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:28:15 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:28:15 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:28:15 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:28:15 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:28:15 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:28:15 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:28:15 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:28:15 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:28:15 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:28:15 -> Filtered at D:\Testes
+26/06/2024 13:28:15 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:31:19 -> Executing...
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:31:19 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\Sem t�tulo.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\Sem t�tulo.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\Sem t�tulo.png to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\Sem t�tulo.png is not a duplicate!
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:31:19 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:31:19 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:31:19 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:31:19 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:31:19 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:31:19 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:31:19 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:31:19 -> Filtered at D:\Testes
+26/06/2024 13:31:19 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:35:32 -> Executing...
+26/06/2024 13:35:32 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:35:32 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:35:32 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:35:32 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:35:32 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:35:32 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:35:32 -> image at Nova pasta has 3 non-moved files.
+
+26/06/2024 13:35:32 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:35:32 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:35:32 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:35:32 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:35:32 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:35:32 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:35:32 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:35:32 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:35:32 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:35:32 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:35:32 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:35:32 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:35:32 -> Filtered at D:\Testes
+26/06/2024 13:35:32 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:35:32 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:40:38 -> Executing...
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:40:38 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:40:38 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:40:38 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:40:38 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:40:38 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:40:38 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:40:38 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:40:38 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:40:38 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:40:38 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:40:38 -> Filtered at D:\Testes
+26/06/2024 13:40:38 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:40:38 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:40:38 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:40:38 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:42:21 -> Executing...
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:42:21 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:42:21 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:42:21 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:42:21 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:42:21 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:42:21 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:42:21 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:42:21 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:42:21 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:42:21 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:42:21 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:42:21 -> Filtered at D:\Testes
+26/06/2024 13:45:03 -> Executing...
+26/06/2024 13:45:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:03 -> video at Nova pasta has 17 non-moved files.
+26/06/2024 13:45:03 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:45:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:03 -> Moving 18 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:45:03 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:45:03 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:03 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:45:03 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:03 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:03 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:45:03 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+va pasta\image
+26/06/2024 13:45:03 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:45:03 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:45:04 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:45:04 -> image at Nova pasta has 4 non-moved files.
+26/06/2024 13:45:04 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:04 -> gif at Nova pasta has 5 non-moved files.
+26/06/2024 13:45:04 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:04 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:45:04 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:45:04 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:04 -> zip at Nova pasta has 6 non-moved files.
+26/06/2024 13:45:04 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:45:04 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:04 -> unknown at Nova pasta has 7 non-moved files.
+26/06/2024 13:45:04 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:45:04 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:45:04 -> text at Nova pasta has 8 non-moved files.
+26/06/2024 13:45:04 -> Filtered at D:\Testes
+26/06/2024 13:45:04 -> installers at Nova pasta has 9 non-moved files.
+26/06/2024 13:45:04 -> Moving 9 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:49:42 -> Executing...
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:49:42 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:49:42 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:49:42 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:49:42 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:49:42 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:49:42 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:49:42 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:49:42 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:49:42 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:49:42 -> Filtered at D:\Testes
+26/06/2024 13:49:42 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:49:42 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:52:35 -> Executing...
+26/06/2024 13:52:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:35 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:52:35 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:52:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:52:35 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:52:35 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:36 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:52:36 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:52:36 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:36 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:52:36 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:36 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:52:36 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:36 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:52:36 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:52:36 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:52:36 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:52:36 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:52:36 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 13:52:36 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:52:36 -> Filtered at D:\Testes
+26/06/2024 13:54:18 -> Executing...
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> Moving 16 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\video.
+26/06/2024 13:54:18 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> Moving 17 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\image.
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\Avengers_002-008.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\black.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\cat.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\jo_-_01_pag_-_03.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\jpg.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\pretty.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\Sem título.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\Sem título.png to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\superman.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 13:54:18 -> Moved D:\Testes\Nova pasta\The Water Tower Standoff Instant Download.jpg to D:\Testes\Nova pasta\image
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> Moving 4 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\gif.
+26/06/2024 13:54:18 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 13:54:18 -> Moving 5 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\zip.
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 13:54:18 -> Moving 6 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\unknown.
+26/06/2024 13:54:18 -> Generated an array with 0 strings of hashes.
+26/06/2024 13:54:18 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 13:54:18 -> Moving 7 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\text.
+26/06/2024 13:54:18 -> Filtered at D:\Testes
+26/06/2024 13:54:18 -> Moving 8 files from D:\Testes\Nova pasta to D:\Testes\Nova pasta\installers.
+26/06/2024 13:54:18 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 14:19:44 -> Executing...
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> video at Nova pasta has 16 non-moved files.
+26/06/2024 14:19:44 -> Moving 16 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\video.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 17 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image.
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\'Catboy Waits for the Mail,' Today's Comic by Benji Nate.jpg is not a duplicate!
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\61ViAZFsJhL._AC_UF1000,1000_QL80_.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Avengers_002-008.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\black.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Avengers_002-008.jpg is not a duplicate!
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\black.jpg is not a duplicate!
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\cat.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\cat.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\dea74858-50f8-4938-a402-cbebee247aa7.png to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Hình ảnh Solo Leveling đẹp nhất.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\jo_-_01_pag_-_03.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\jo_-_01_pag_-_03.jpg is not a duplicate!
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\jpg.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\pretty.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\pretty.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\jpg.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Sem título.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Sem título.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Sem título.png to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\superman.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\Sem título.png is not a duplicate!
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\superman.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 14:19:44 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 14:19:44 -> Moved C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\The Water Tower Standoff Instant Download.jpg to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image
+26/06/2024 14:19:44 -> C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\The Water Tower Standoff Instant Download.jpg is not a duplicate!
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+rea de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\gif.
+26/06/2024 14:19:44 -> Moving 5 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\zip.
+26/06/2024 14:19:44 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 6 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\unknown.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 14:19:44 -> Moving 7 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\text.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\installers.
+26/06/2024 14:19:44 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 2 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\video.
+26/06/2024 14:19:44 -> video at Tor Browser has 2 non-moved files.
+26/06/2024 14:19:44 -> Moving 3 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\image.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> image at Tor Browser has 3 non-moved files.
+26/06/2024 14:19:44 -> gif at Tor Browser has 4 non-moved files.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 4 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\gif.
+26/06/2024 14:19:44 -> zip at Tor Browser has 5 non-moved files.
+26/06/2024 14:19:44 -> Moving 5 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\zip.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 6 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\unknown.
+26/06/2024 14:19:44 -> unknown at Tor Browser has 6 non-moved files.
+26/06/2024 14:19:44 -> Moving 7 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\text.
+26/06/2024 14:19:44 -> text at Tor Browser has 7 non-moved files.
+26/06/2024 14:19:44 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:19:44 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\installers.
+26/06/2024 14:19:44 -> Filtered at C:\Users\breno\OneDrive\Área de Trabalho
+26/06/2024 14:19:44 -> installers at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Executing...
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\video.
+26/06/2024 14:23:03 -> video at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:03 -> Generated an array with 14 strings of hashes.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image.
+26/06/2024 14:23:03 -> image at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\gif.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\zip.
+26/06/2024 14:23:03 -> zip at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\unknown.
+26/06/2024 14:23:03 -> unknown at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\text.
+26/06/2024 14:23:03 -> text at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:03 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\installers.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> video at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\video.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> image at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\image.
+26/06/2024 14:23:03 -> gif at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\gif.
+26/06/2024 14:23:03 -> zip at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\zip.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\unknown.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> unknown at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\text.
+26/06/2024 14:23:03 -> text at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:03 -> Filtered at C:\Users\breno\OneDrive\Área de Trabalho
+26/06/2024 14:23:03 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\installers.
+26/06/2024 14:23:03 -> installers at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Executing...
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\video.
+26/06/2024 14:23:51 -> video at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Generated an array with 14 strings of hashes.
+26/06/2024 14:23:51 -> image at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\gif.
+26/06/2024 14:23:51 -> gif at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> zip at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\zip.
+26/06/2024 14:23:51 -> unknown at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\unknown.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> text at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\text.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\installers.
+26/06/2024 14:23:51 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\video.
+26/06/2024 14:23:51 -> video at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\image.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> image at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\gif.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> gif at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\zip.
+26/06/2024 14:23:51 -> zip at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> unknown at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\unknown.
+26/06/2024 14:23:51 -> text at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\text.
+26/06/2024 14:23:51 -> installers at Tor Browser has 8 non-moved files.
+26/06/2024 14:23:51 -> Filtered at C:\Users\breno\OneDrive\Área de Trabalho
+26/06/2024 14:23:51 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\installers.
+26/06/2024 14:30:17 -> Executing...
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Moving 2 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\video.
+26/06/2024 14:30:17 -> video at Nova pasta has 2 non-moved files.
+26/06/2024 14:30:17 -> image at Nova pasta has 3 non-moved files.
+26/06/2024 14:30:17 -> Moving 3 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\image.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> gif at Nova pasta has 4 non-moved files.
+26/06/2024 14:30:17 -> Moving 4 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\gif.
+26/06/2024 14:30:17 -> Moving 5 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\zip.
+26/06/2024 14:30:17 -> zip at Nova pasta has 5 non-moved files.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Moving 6 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\unknown.
+26/06/2024 14:30:17 -> unknown at Nova pasta has 6 non-moved files.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Moving 7 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\text.
+26/06/2024 14:30:17 -> text at Nova pasta has 7 non-moved files.
+26/06/2024 14:30:17 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta to C:\Users\breno\OneDrive\Área de Trabalho\Nova pasta\installers.
+26/06/2024 14:30:17 -> installers at Nova pasta has 8 non-moved files.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> video at Tor Browser has 2 non-moved files.
+26/06/2024 14:30:17 -> Moving 2 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\video.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> image at Tor Browser has 3 non-moved files.
+26/06/2024 14:30:17 -> Moving 3 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\image.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Moving 4 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\gif.
+26/06/2024 14:30:17 -> gif at Tor Browser has 4 non-moved files.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Moving 5 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\zip.
+26/06/2024 14:30:17 -> zip at Tor Browser has 5 non-moved files.
+26/06/2024 14:30:17 -> Moving 6 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\unknown.
+26/06/2024 14:30:17 -> unknown at Tor Browser has 6 non-moved files.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Generated an array with 0 strings of hashes.
+26/06/2024 14:30:17 -> Moving 7 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\text.
+26/06/2024 14:30:17 -> text at Tor Browser has 7 non-moved files.
+26/06/2024 14:30:17 -> Moving 8 files from C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser to C:\Users\breno\OneDrive\Área de Trabalho\Tor Browser\installers.
+26/06/2024 14:30:17 -> Filtered at C:\Users\breno\OneDrive\Área de Trabalho
