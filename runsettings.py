@@ -27,6 +27,7 @@ AUTO_EXTRACT_ZIP = OPTIONS["extracting"]["auto_extract"]
 DELETE_ZIP_AFTER_EXTRACT = OPTIONS["extracting"]["delete_after_done"]
 ZIP_CATEGORY = OPTIONS["extracting"]["category"]
 LOG = OPTIONS["system"]["logging"]
+LOG_LINES = OPTIONS["system"]["log_max_lines"]
 DEV = OPTIONS["system"]["dev"]
 AUTO = OPTIONS["system"]["automatization"]
 

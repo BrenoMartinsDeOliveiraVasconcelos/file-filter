@@ -17,12 +17,14 @@ def get_hash(filename) -> str:
             data = f.read(1024)
             h = hashlib.sha256()  # You can choose a different hashing algorithm here (e.g., md5)
 
-            while data:
+            if data:
                 h.update(data)
                 data = f.read(1024)
 
             # Get the final hash digest
-            return h.hexdigest()
+            sha = h.hexdigest()
+            output(f"{filename} is {sha}")
+            return sha
     except IsADirectoryError:
         return ""
 
@@ -34,8 +36,15 @@ def output(out: str, system_call=False):
         print(outp)
 
     if config.LOG:
-        open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "log.txt"), "a+", encoding="utf-8").write(outp)
-        
+        logf = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "log.txt"), "a+", encoding="utf-8")
+
+        logf_content = logf.readlines()
+
+        while len(logf_content) > config.LOG_LINES:
+            del logf_content[0]      
+
+        logf.write("\n".join(logf_content))
+        logf.close()
 
 
 def main(fpath: str):
@@ -98,7 +107,7 @@ def main(fpath: str):
                                 new_name = "."
 
                                 if config.RENAME_ON_MOVE:
-                                    new_name = f"{random.randint(0, 2147483647)}{suffix}"
+                                    new_name = f"{random.randint(0, 2147483647)}"
                                 else:
                                     new_name = file if new_name not in cat_files else f"{random.randint(0, 5)}"+new_name
 
@@ -106,28 +115,35 @@ def main(fpath: str):
                                         new_name = new_name[0:config.MAX_LEN]
                                     
                                     index = 0
-                                    new_name_chars = [x for x in new_name]
                                     for char in new_name_chars:
                                         if char in config.REMOVE_CHARS:
                                             new_name_chars[index] = ""
                                         
                                         index += 1
 
-                                    new_name = "".join(new_name_chars)+suffix
+                                new_name_chars = [x for x in new_name]
+                                new_name = "".join(new_name_chars)+suffix
+                                output(f"{file_path} going to be renamed as {new_name}")
 
                                 if new_name not in cat_files:
                                     break
+                                else:
+                                    output(f"Name already exists")
 
                             if not duplicate:
-                                shutil.move(file_path, os.path.join(catpath, new_name))
+                                dst =  os.path.join(catpath, new_name)
+                                output(f"{file_path} to {dst}")
+                                shutil.move(file_path, dst)
                                 threading.Thread(target=output, args=[f"Moved {file_path} to {catpath}", ]).start()
                             else:
+                                duplicate = False
                                 if config.IGNORE_MOVE_ERROR:
                                     threading.Thread(target=output, args=[f"Ignoring duplicate!", ]).start()
                                 else: 
                                     if config.DELETE_DUPLICATE_NAME:
                                         try:
                                             os.remove(file_path)
+                                            output(f"{file_path} is removed")
                                         except PermissionError:
                                             threading.Thread(target=output, args=[f"Permission denied remobing {file_path}", ]).start()
                                     else:
